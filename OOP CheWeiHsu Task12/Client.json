@@ -1,0 +1,165 @@
+[
+  
+  {
+    "Email": "john.kay@gmail.com",
+    "FamilyName": "Kay",
+    "FirstName": "John",
+    "Id": 1,
+    "MaxRentPossible": 425,
+    "PreferredType": "Flat",
+    "TelephoneNumber": "0207-774-5632"
+  },
+  {
+    "Email": "aline.stewart@gmail.fr",
+    "FamilyName": "Stewart",
+    "FirstName": "Aline",
+    "Id": 2,
+    "MaxRentPossible": 350,
+    "PreferredType": "Flat",
+    "TelephoneNumber": "0141-848-1825"
+  },
+  {
+    "Email": "mike.ritchie@bigfoot.co.uk",
+    "FamilyName": "Ritchie",
+    "FirstName": "Lasse",
+    "Id": 3,
+    "MaxRentPossible": 750,
+    "PreferredType": "House",
+    "TelephoneNumber": "0147-391-8878"
+  },
+  {
+    "Email": " optimistic@angelfire.is",
+    "FamilyName": "Springs",
+    "FirstName": "Hot ",
+    "Id": 4,
+    "MaxRentPossible": 690,
+    "PreferredType": "House",
+    "TelephoneNumber": "0142-119-2178"
+  },
+  {
+    "Email": " mary.tregar@crosswinds.net",
+    "FamilyName": "Tregear",
+    "FirstName": "Mary",
+    "Id": 5,
+    "MaxRentPossible": 800,
+    "PreferredType": "Flat",
+    "TelephoneNumber": "0122-779-1967"
+  },
+  {
+    "Email": "aspen.marriott@joinme.no",
+    "FamilyName": "Marriott",
+    "FirstName": "Aspen",
+    "Id": 6,
+    "MaxRentPossible": 575,
+    "PreferredType": "Flat",
+    "TelephoneNumber": "0339-895-5684"
+  },
+  {
+    "Email": "minnie.miles@allracing.com",
+    "FamilyName": "Miles",
+    "FirstName": "Minnie",
+    "Id": 7,
+    "MaxRentPossible": 875,
+    "PreferredType": "Bungalow",
+    "TelephoneNumber": "9872-089-1564"
+  },
+  {
+    "Email": "cael.metcalf@godaddy.lv",
+    "FamilyName": "Metcalf",
+    "FirstName": "Cael",
+    "Id": 8,
+    "MaxRentPossible": 885,
+    "PreferredType": "House",
+    "TelephoneNumber": "3311-111-7567"
+  },
+  {
+    "Email": " salomon.save@protonmail.lt ",
+    "FamilyName": "Savell",
+    "FirstName": "Salomon",
+    "Id": 10,
+    "MaxRentPossible": 735,
+    "PreferredType": "Villa",
+    "TelephoneNumber": "9866-933-1561"
+  },
+  {
+    "Email": "wade.ozzie@rackspace.dk",
+    "FamilyName": "Ozier",
+    "FirstName": "Wade",
+    "Id": 11,
+    "MaxRentPossible": 760,
+    "PreferredType": "Villa",
+    "TelephoneNumber": "6672-551-1981"
+  },
+  {
+    "Email": "abi.pidcock@gsuite.de",
+    "FamilyName": "Pidcock",
+    "FirstName": "Abigail",
+    "Id": 12,
+    "MaxRentPossible": 810,
+    "PreferredType": "Villa",
+    "TelephoneNumber": "9881-773-7781"
+  },
+  {
+    "Email": "whitley.quinton@flaskmail.gr",
+    "FamilyName": "Quinton",
+    "FirstName": "Whitley",
+    "Id": 13,
+    "MaxRentPossible": 795,
+    "PreferredType": "Villa",
+    "TelephoneNumber": "2256-887-1551"
+  },
+  {
+    "Email": "rae.role@goodbit.pl",
+    "FamilyName": "Roley",
+    "FirstName": "Raelyn",
+    "Id": 14,
+    "MaxRentPossible": 550,
+    "PreferredType": "Cottage",
+    "TelephoneNumber": "8833-773-7781"
+  },
+  {
+    "Email": "bailey.sherr@dudamobile.pt",
+    "FamilyName": "Shorrock",
+    "FirstName": "Bailey",
+    "Id": 15,
+    "MaxRentPossible": 660,
+    "PreferredType": "Cottage",
+    "TelephoneNumber": "4488-278-3390"
+  },
+  {
+    "Email": "helen.spike@instapage.es",
+    "FamilyName": "Spikes",
+    "FirstName": "Helen",
+    "Id": 16,
+    "MaxRentPossible": 970,
+    "PreferredType": "Bungalow",
+    "TelephoneNumber": "7782-992-2564"
+  },
+  {
+    "Email": "uschie.firsttip@unbounce.ch",
+    "FamilyName": "Tipton",
+    "FirstName": "Uschi",
+    "Id": 17,
+    "MaxRentPossible": 430,
+    "PreferredType": "Cottage",
+    "TelephoneNumber": "8870-774-5672"
+  },
+  {
+    "Email": "gyro.gearloose@edu.xamk.fi",
+    "FamilyName": "Gearloose",
+    "FirstName": "Gyro",
+    "Id": 18,
+    "MaxRentPossible": 675.55,
+    "PreferredType": "Cottage",
+    "TelephoneNumber": "040 5679128"
+  },
+  {
+    "Email": "luffy.monkey.d@edu.xamk.fi",
+    "FamilyName": "Monkey.D",
+    "FirstName": "Luffy",
+    "Id": 19,
+    "MaxRentPossible": 680,
+    "PreferredType": "Villa",
+    "TelephoneNumber": "056 5236127"
+  }
+]
